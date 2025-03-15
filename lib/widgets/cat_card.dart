@@ -50,7 +50,6 @@ class CatCard extends StatelessWidget {
               height: 500.0,
               child: GestureDetector(
                 onTap: () {
-                  // Открытие детальной страницы нажатии на изображение
                   Navigator.push(
                     context,
                     MaterialPageRoute(
