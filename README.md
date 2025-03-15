@@ -24,9 +24,6 @@
 
 <img width="398" alt="image" src="https://github.com/user-attachments/assets/0e836577-3baa-4bc3-a611-e196fd1c5f01" />
 
-<img width="417" alt="image" src="https://github.com/user-attachments/assets/2a8b1d71-f0c4-40c1-8978-e9755a849a77" />
-<img width="402" alt="image" src="https://github.com/user-attachments/assets/0120ef34-21e4-45d3-8c3a-a3a904b76b05" />
-
 
 # Ссылка на скачивание актуальной версии APK
 
