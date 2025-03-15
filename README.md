@@ -1,16 +1,26 @@
 # cats_tinder
 
-A new Flutter project.
+# Описание проекта
+Кототиндер — это Flutter-приложение, которое предоставляет пользователям возможность просматривать изображения котов, лайкать их и получать дополнительную информацию о породах. 
 
-## Getting Started
+# Реализованные фичи
+Свайпы изображений: свайпаем изображения котов вправо, если понравилось, или влево, если нет.
+Кнопка лайка и дизлайка
+Счетчик лайков: при лайке котика, счетчик лайков увеличивается
+Детализированная информация: если нажать на само изображение котика, то открывается новый экран с описанием породы
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Скриншоты приложения
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Кастомная иконка 
+<img width="86" alt="image" src="https://github.com/user-attachments/assets/5eff53ce-1326-4e6b-bf80-7b39befb52ee" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Главный экран
+
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/02eedbc4-b160-4e49-9aa2-ad89307f78bc" />
+
+
+Экран с деталями породы
+
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/c06b6687-8426-485d-b69b-8068ac3d0e23" />
+
